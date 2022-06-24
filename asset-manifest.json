@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/feedback_on_hoock/static/css/main.f375a056.css",
+    "main.js": "/feedback_on_hoock/static/js/main.67ebad2e.js",
+    "index.html": "/feedback_on_hoock/index.html",
+    "main.f375a056.css.map": "/feedback_on_hoock/static/css/main.f375a056.css.map",
+    "main.67ebad2e.js.map": "/feedback_on_hoock/static/js/main.67ebad2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f375a056.css",
+    "static/js/main.67ebad2e.js"
+  ]
+}
