@@ -1,0 +1,20 @@
+
+ 
+  p{
+    font-size: 24px;
+}
+.good {
+    color: green;
+    font-size: 20px;
+  }
+  
+  .bad {
+    color: red;
+    font-size: 20px;
+  }
+  
+  .neutral {
+    color: darkgrey;
+    font-size: 20px;
+  }
+ 
